@@ -13,4 +13,5 @@ glitchMonger Renoise tool
  - g_NN : GLITCH, like r_, but also randomize groups of NN rows from different patterns, keeping row numbers the same. ex: g_8 pattern 22  rows 16-23 copied from random pattern rows 16-23
  - x_NN : CROSS-GLITCH, like g_, but also randomizes the NN rows groupings. ex: x_16 pattern 22  rows 16-31 copied from random pattern rows 32-47 or 0-15
 
-![image](https://user-images.githubusercontent.com/74881943/199969181-8f8321c3-921b-4bef-8adc-be27b0846737.png)
+![image](https://user-images.githubusercontent.com/74881943/199969534-3a72c6bb-2829-4fa1-8a19-b52d59e4827b.png)
+
